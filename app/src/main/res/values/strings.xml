@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="longPress">Long-press an item to remove it.</string>
+    <string name="appName">TO-DO LIST APP!</string>
+    <string name="add">ADD</string>
+    <string name="toDoes">toDoes</string>
+</resources>
